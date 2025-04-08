@@ -118,7 +118,7 @@ export default function Portfolio() {
 				'/img/portfolio/thevoidbot/img4.avif',
 			],
 			longDescription:
-				'MusicBot is a high-quality Discord music bot that supports multiple music sources including YouTube, Spotify, SoundCloud, and local files. It features playlist management, audio effects like bass boost and nightcore, volume control, and a queue system. The bot provides high-quality audio streaming and can be controlled through an intuitive command system or reactions.',
+				'The Void Bot is a feature-rich group chat management bot designed to help you manage your group chats with ease. It includes a wide range of features such as custom commands, moderator/owner status, as well as permission-based commands. This bot is perfect for anyone looking to enhance their group chat experience and make it more organized. The bot is easy to set up and use, with a user-friendly interface and clear instructions. It also includes a variety of customization options, allowing you to tailor the bot to your specific needs.',
 		},
 		{
 			id: 6,
@@ -151,7 +151,7 @@ export default function Portfolio() {
 				'/img/portfolio/bots/freelance/img4.png',
 			],
 			longDescription:
-				'Survival Enhancements is a collection of interconnected Minecraft plugins designed to enhance the vanilla survival experience. It adds custom crafting recipes, new items with special abilities, custom mobs with unique behaviors, additional structures to discover, and quality-of-life improvements like backpacks and waypoints. All additions are balanced to maintain the core survival gameplay while adding depth and variety.',
+				'This custom Discord Bot was designed specifically for Freelance Agencies to manage their clients and projects. It features a clean and professional theme with role designs and channel organization that reflects the agency\'s services. The bot includes specialized commands for project management, client communication, and task tracking, making it easy for agencies to stay organized and efficient. As well as automated paypal invoices, ticket creation, and freelancer to client communication.',
 		},
 		{
 			id: 8,
