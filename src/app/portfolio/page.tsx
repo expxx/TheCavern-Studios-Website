@@ -195,7 +195,7 @@ export default function Portfolio() {
 			icon: <Bot className="h-5 w-5" />,
 			detailImages: [],
 			longDescription:
-				'This cloud-based licensing system is designed to manage access to your products effectively. It includes a web-based interface for generating, validating, and revoking license keys, and configuring your system. The system is built with security in mind, ensuring that only authorized users can access your products.',
+				'This cloud-based licensing system is designed to manage access to your products effectively. It includes a web-based interface for generating, validating, and revoking license keys, and configuring your system. The system is built with security in mind, ensuring that only authorized users can access your products. This was designed to be run in a cloud-environment, with 1 hoster and many users. ',
 		},
 	];
 
